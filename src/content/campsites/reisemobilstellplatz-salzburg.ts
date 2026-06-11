@@ -19,7 +19,6 @@ const reisemobilstellplatzSalzburg: CampsiteConfig = {
   brandKind: "Reisemobil-Stellplatz",
   regionLong: "Reisemobil-Stellplatz · Stadtrand Salzburg · Österreich",
 
-  theme: "schiefer",
   heroVariant: "center",
 
   claim: "Ankommen, wo Salzburg beginnt",
@@ -47,7 +46,7 @@ const reisemobilstellplatzSalzburg: CampsiteConfig = {
     heading: "Von Reisemobilisten für Reisemobilisten geplant",
     headingEmphasis: "für Reisemobilisten",
     intro:
-      "2017 von erfahrenen Reisemobilisten gebaut und von promobil zum „Stellplatz des Monats“ gekürt: 106 ebene Stellflächen, eine 30 m lange Ver- & Entsorgung und kurze Wege — durchdacht bis ins Detail.",
+      “2017 von erfahrenen Reisemobilisten gebaut und von promobil zum „Stellplatz des Monats” gekürt: 106 überwiegend ebene Stellflächen, eine 30 m lange Ver- & Entsorgung und kurze Wege — durchdacht bis ins Detail.”,
   },
 
   awards: [],
@@ -64,7 +63,7 @@ const reisemobilstellplatzSalzburg: CampsiteConfig = {
   camping: {
     heading: "Der Stellplatz",
     intro:
-      "106 ebene Stellflächen mit mindestens 5 m Breite und bis zu 20 m Länge, breite Verkehrswege, zentrale Ver- & Entsorgung und ein eigener Hundegarten.",
+      "106 überwiegend ebene Stellflächen mit mindestens 5 m Breite und bis zu 20 m Länge, breite Verkehrswege, zentrale Ver- & Entsorgung und ein eigener Hundegarten.",
     features: [],
   },
 
@@ -137,7 +136,7 @@ const reisemobilstellplatzSalzburg: CampsiteConfig = {
     telHref: "tel:+436769114244",
     mail: "office@reisemobilstellplatz-salzburg.at",
     adresse: "Carl-Zuckmayer-Straße 26 · 5101 Salzburg · Österreich",
-    coords: { lat: 47.8357, lng: 13.0604 },
+    coords: { lat: 47.835516, lng: 13.060078 },
   },
 
   languages: ["DE", "EN"],
