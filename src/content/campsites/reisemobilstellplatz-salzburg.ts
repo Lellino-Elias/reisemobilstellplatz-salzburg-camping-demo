@@ -36,7 +36,7 @@ const reisemobilstellplatzSalzburg: CampsiteConfig = {
 
   usps: [
     "Hunde kostenlos",
-    "Frischer Brötchenservice",
+    "Brötchenservice (Hauptsaison)",
     "WLAN",
     "365 Tage geöffnet",
     "Direkt von der A1",
