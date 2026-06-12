@@ -46,7 +46,7 @@ const reisemobilstellplatzSalzburg: CampsiteConfig = {
     heading: "Von Reisemobilisten für Reisemobilisten geplant",
     headingEmphasis: "für Reisemobilisten",
     intro:
-      “2017 von erfahrenen Reisemobilisten gebaut und von promobil zum „Stellplatz des Monats” gekürt: 106 überwiegend ebene Stellflächen, eine 30 m lange Ver- & Entsorgung und kurze Wege — durchdacht bis ins Detail.”,
+      "2017 von erfahrenen Reisemobilisten gebaut und von promobil zum „Stellplatz des Monats” gekürt: 106 überwiegend ebene Stellflächen, eine 30 m lange Ver- & Entsorgung und kurze Wege — durchdacht bis ins Detail.",
   },
 
   awards: [],
@@ -136,7 +136,7 @@ const reisemobilstellplatzSalzburg: CampsiteConfig = {
     telHref: "tel:+436769114244",
     mail: "office@reisemobilstellplatz-salzburg.at",
     adresse: "Carl-Zuckmayer-Straße 26 · 5101 Salzburg · Österreich",
-    coords: { lat: 47.835516, lng: 13.060078 },
+    coords: { lat: 47.835606, lng: 13.060387 },
   },
 
   languages: ["DE", "EN"],
